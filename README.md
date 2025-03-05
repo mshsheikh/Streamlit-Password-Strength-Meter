@@ -22,8 +22,8 @@ A secure and interactive password strength analyzer built with Streamlit. Genera
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/streamlit-password-strength-meter.git
-   cd streamlit-password-strength-meter
+   git clone https://github.com/mshsheikh/Streamlit-Password-Strength-Meter.git
+   cd Streamlit-Password-Strength-Meter
    ```
 
 2. Install dependencies:
